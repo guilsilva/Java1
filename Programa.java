@@ -1,9 +1,6 @@
-public class Programa{
 
-	public static void main(String[] args){
-
-		System.out.println("Ola Mundo!");
-	
+public class Programa {
+	public static void main(String[] args) {
+		System.out.println("Ola Mundo!!");
 	}
-
 }
